@@ -8,3 +8,4 @@ commit test
 Add line from bash
 Adding line from github 
 new branch line
+conflict new branch
