@@ -1,5 +1,3 @@
-
-from local
 from github
 commit test
 456
@@ -9,3 +7,4 @@ Add line from bash
 Adding line from github 
 new branch line
 conflict new branch
+new for gui
